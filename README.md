@@ -6,5 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F754A5&random=false&width=435&lines=This+is+best+site+for+development)](https://git.io/typing-svg)
 
+![Static Badge](https://img.shields.io/badge/any_test-you_like_blue?logo=bitcoin&label=test)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
